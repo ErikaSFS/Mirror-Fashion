@@ -6,7 +6,7 @@ O Mirror Fashion é um exemplo de e-commerce de uma loja de roupas.
 Nele é possivel verificar uma lista de produtos, escolher os produtos e então preencher um formulário para finalizar a compra.
 Algumas das funcionalidades encontradas no site não foram implementas, pois o foco do curso é o front-end e o objetivo do projeto é apenas demonstrar as tecnicas de desenvolvimento utilizando o HTML 5, CSS3 e o JavaScript.
 Para rodar o site é necessario iniciar um servidor 'php'. 
-O projeto pode ser encontrado na pasta: "wd43-mirror-fashion/mirror-fashion".
+O projeto pode ser encontrado na pasta: "mirror-fashion".
 
 Detalhes do curso
 HTML com foco em semântica, boas práticas, SEO e acessibilidade;
